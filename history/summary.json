@@ -4,19 +4,19 @@
     "url": "https://swimo-v2.natation-cvl.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/swimo-v2.natation-cvl.fr.ico",
     "slug": "admin",
-    "status": "up",
-    "uptime": "31.24%",
-    "uptimeDay": "31.24%",
-    "uptimeWeek": "31.24%",
-    "uptimeMonth": "31.24%",
-    "uptimeYear": "31.24%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-10-20": 14
+      "2024-10-20": 0
     }
   },
   {
