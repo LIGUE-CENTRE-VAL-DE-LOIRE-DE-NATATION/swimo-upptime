@@ -5,7 +5,7 @@ sites:
   - name: Admin
     url: https://swimo-v2.natation-cvl.fr/
   - name: Api
-    url: https://swimo.natation-cvl.fr/api/articles?page=1
+    url: https://swimo-v2.natation-cvl.fr/api/articles?page=1
     headers:
       - "accept: application/ld+json"
 
