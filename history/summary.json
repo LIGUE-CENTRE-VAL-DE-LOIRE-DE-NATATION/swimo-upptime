@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/swimo-v2.natation-cvl.fr.ico",
     "slug": "admin",
     "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
-    "time": 802,
-    "timeDay": 802,
-    "timeWeek": 802,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "uptime": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 839,
+    "timeDay": 1027,
+    "timeWeek": 839,
+    "timeMonth": 839,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2024-10-20": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 423,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 423,
+    "time": 429,
+    "timeDay": 457,
+    "timeWeek": 429,
+    "timeMonth": 429,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   }
 ]
