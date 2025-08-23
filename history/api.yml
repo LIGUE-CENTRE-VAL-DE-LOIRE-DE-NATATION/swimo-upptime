@@ -1,7 +1,7 @@
 url: https://swimo-v2.natation-cvl.fr/api/articles?page=1
-status: down
-code: 502
-responseTime: 103
-lastUpdated: 2025-08-23T16:17:30.907Z
+status: up
+code: 200
+responseTime: 289
+lastUpdated: 2025-08-23T16:35:38.324Z
 startTime: 2024-10-20T14:53:18.214Z
 generator: Upptime <https://github.com/upptime/upptime>
